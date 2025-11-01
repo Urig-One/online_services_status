@@ -1,6 +1,6 @@
 # Liste des pages affichant le status des services
 
-| Service en ligne              |                                      |URL                                                      |
+| Service                       |                                      |URL                                                      |
 | ----------------------------- | ------------------------------------ | ------------------------------------------------------- |
 |Asana                          |Status                                |https://status.asana.com                                 |
 |Atlassian                      |Jira & Confluence Status              |https://status.atlassian.com                             |
