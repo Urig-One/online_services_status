@@ -14,6 +14,7 @@
 |GoDaddy                        |Status                                |https://status.godaddy.com                               |
 |Google Cloud                   |Status                                |https://status.cloud.google.com                          |
 |HubSpot                        |Status                                |https://status.hubspot.com                               |
+|Hydro-One                      |Power Outages                         |https://stormcentre.hydroone.com                         |
 |Hydro-Québec                   |Power Outages                         |https://infopannes.solutions.hydroquebec.com/info-pannes |
 |Microsoft Azure                |Azure Service Health                  |https://portal.azure.com/#view/Microsoft_Azure_Health/AzureHealthBrowseBlade/~/serviceIssues  |
 |Microsoft Azure                |Azure State of integrity of services  |https://azure.status.microsoft/status                    |
